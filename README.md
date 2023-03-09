@@ -4,7 +4,7 @@
 
 - 💼 Research Engineer at [Robotics & AI Lab](https://www.ltu.se/research/subjects/RoboticsAI/) at Luleå University of Technology
 
-- 👨‍🎓 Senior student on Electrical Engineering & Computer Technology at the [University of Patras](https://www.upatras.gr/)
+- 👨‍🎓 M.Sc. on Electrical Engineering & Computer Technology from the [University of Patras](https://www.upatras.gr/)
 
 - 💻 Working mainly with Python and ROS2
 
