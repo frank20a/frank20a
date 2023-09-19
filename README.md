@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Research Engineer at [Robotics & AI Lab](https://www.ltu.se/research/subjects/RoboticsAI/) at Luleå University of Technology
+- 💼 PhD Candidate on Surgical Robotics at the [University of Twente](https://surgicalroboticslab.nl/)
 
 - 👨‍🎓 M.Sc. on Electrical Engineering & Computer Technology from the [University of Patras](https://www.upatras.gr/)
 
