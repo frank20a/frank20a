@@ -2,11 +2,11 @@
 
 **About me**
 
-- 💼 PhD Candidate on Surgical Robotics at the [University of Twente](https://surgicalroboticslab.nl/)
+- 💼 Hardware & Software Engineer at [TCO - University of Twente](https://www.utwente.nl/nl/tco/)
 
 - 👨‍🎓 M.Sc. on Electrical Engineering & Computer Technology from the [University of Patras](https://www.upatras.gr/)
 
-- 💻 Working mainly with Python and ROS2
+- 💻 Working on anything from Python to TwinCAT, from Embedded to Docker Containers and from PCBs to PLCs...
 
 - 💬 Ask me about anything [here](https://github.com/frank20a/frank20a/issues)
 
